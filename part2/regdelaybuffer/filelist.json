@@ -1,0 +1,6 @@
+ {
+    "top": "delaybuffer",
+    "files":
+     ["part2/regdelaybuffer/delaybuffer.sv"
+    ]
+}

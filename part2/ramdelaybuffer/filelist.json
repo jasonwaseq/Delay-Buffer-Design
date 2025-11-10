@@ -1,0 +1,8 @@
+ {
+    "top": "delaybuffer",
+    "files":
+     ["part2/ramdelaybuffer/delaybuffer.sv",
+     "part1/ram_1r1w_sync/ram_1r1w_sync.sv",
+     "part2/counter_roll/counter_roll.sv"
+    ]
+}

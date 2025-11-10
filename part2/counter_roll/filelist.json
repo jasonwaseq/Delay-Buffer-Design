@@ -1,0 +1,6 @@
+{
+    "top": "counter_roll",
+    "files":
+    ["part2/counter_roll/counter_roll.sv"
+    ]
+}

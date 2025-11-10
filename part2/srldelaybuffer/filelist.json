@@ -1,0 +1,7 @@
+ {
+    "top": "delaybuffer",
+    "files":
+     ["part2/srldelaybuffer/delaybuffer.sv",
+     "provided/SRL16E.sv"
+    ]
+}
